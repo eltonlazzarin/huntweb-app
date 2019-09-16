@@ -1,0 +1,11 @@
+.rodape {
+    width: 100%;
+    float: left;
+    background-color: rgb(18, 15, 209);
+    padding: 20px 8%;
+}
+
+.rodape p {
+    color: #fff;
+    text-align: center;
+}
