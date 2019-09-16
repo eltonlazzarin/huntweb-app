@@ -30,5 +30,5 @@ Open your browser and type [http://localhost:3000](http://localhost:3000).
 
 When any "More details" button is hitted, you will see more specification of the product
 
-<img src="https://github.com/eltonlazzarin/huntweb-app/blob/master/src/images/toppage.png">
+<img src="https://github.com/eltonlazzarin/huntweb-app/blob/master/src/images/productpage.png">
 
